@@ -12,8 +12,10 @@ public class SortNumbers {
         List<Integer> oddNum = new ArrayList<>();
 
         Scanner input = new Scanner(System.in);
+        System.out.println("Quantos números iremos ordenar?");
         int n = input.nextInt();
 
+        System.out.println("Quais são os números?");
         for (int i = 0; i < n; i++) {
             int num = input.nextInt();
 
@@ -29,6 +31,7 @@ public class SortNumbers {
         Collections.sort(evenNum);
         Collections.sort(oddNum, Collections.reverseOrder());
 
+        System.out.println("Aqui estão os números na ordem solicitada:");
         for(int even: evenNum) {
             System.out.println(even);
         }
