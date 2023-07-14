@@ -7,4 +7,4 @@ Fiz isso com um laço for que iria percorrer os elementos e para calcular a dife
 - Por fim, apenas organizei como tudo isso apareceria no console e o resultado pode ser visto na imagem abaixo: 
 
 
-  ![Exemplo de Imagem](PairInArray.png)
+  ![Testing the code](PairInArray.png)
