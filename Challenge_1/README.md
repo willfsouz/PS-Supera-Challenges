@@ -6,7 +6,4 @@
 - Por fim, só faltava imprimir o resultado do cógigo, usei por exemplo o `for(int even: evenNum)`, é um equivalente ao forEach que tem em outras linguagens, nesse trecho, ele já vai trazer a lista de números pares que foram ordenadas anteriormente.
 - Organizei a entrada e saída de números do console e o resultado pode ser visto na imagem abaixo:  
 
-
-<div style="text-align:center">
-    <img src="SortNumbers.png" alt="Descrição da imagem">
-</div>
+![Exemplo de Imagem](SortNumbers.png)

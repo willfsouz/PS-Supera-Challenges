@@ -8,6 +8,4 @@ Ele pode ser um pouco mais restrito e verboso em relação aos primitivos Double
 - Optei por exibir apenas as notas e moedas que seriam utilizadas com aquele valor, então fiz Usando uma condicional if dentro do laço for.
 - Editei um pouco de como apareceria os outputs no console para não parecer muito cru e quando finalizado, ficou conforme o exemplo abaixo:
 
-<div style="text-align:center">
-    <img src="withdrawCashExample.png" alt="Descrição da imagem">
-</div>
+  ![Exemplo de Imagem](withdrawCashExample.png)

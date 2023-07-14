@@ -6,6 +6,5 @@ Fiz isso com um laço for que iria percorrer os elementos e para calcular a dife
 - Se os elementos comparados tivessem a diferença com o valor definido na variável k, um contador adicionaria +1.
 - Por fim, apenas organizei como tudo isso apareceria no console e o resultado pode ser visto na imagem abaixo: 
 
-<div style="text-align:center">
-    <img src="PairInArray.png" alt="Descrição da imagem">
-</div>
+
+  ![Exemplo de Imagem](PairInArray.png)
